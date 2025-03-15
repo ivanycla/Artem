@@ -27,7 +27,7 @@ else{
      if (counter===4){
 
         setInterval(() => {
-            window.open("/docs.html", "_blank");
+            window.open("docs.html", "_blank");
         }, 500); 
         
 }
